@@ -90,7 +90,7 @@ font-style: normal;
 font-weight: 900;
 line-height: 88px; 
 letter-spacing: 7.04px;
-padding: 0 0 24px 126px;
+padding: 0 0 14px 126px;
 }
 #sit{
     color: rgba(255, 255, 255, 0.80);
@@ -101,7 +101,7 @@ font-style: normal;
 font-weight: 400;
 line-height: 30px;
 padding-left: 126px;
-padding-bottom: 48px;
+padding-bottom: 20px;
 }
 .all{
     width: 80%;
@@ -122,6 +122,37 @@ padding-bottom: 48px;
 #img2{
     width: 100%;
     padding: 78px 0;
+}
+
+
+.join-info{
+    width: 80%;
+    max-width: 1320px;
+    height: 320px;
+    margin: 0 auto;
+    border-radius: 16px;
+    text-align: center;
+    padding: 100px 0;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    margin-bottom: 80px;
+}
+.descrip-red{
+    color: #F00;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 50px;
+    text-transform: capitalize;
+}
+
+.descrip1{
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 50px;
+    text-transform: capitalize;
+    margin-bottom: 48px;
 }
 
 
